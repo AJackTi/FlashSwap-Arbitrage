@@ -1,5 +1,5 @@
 {
-  "name": "Uniswap v3 flashswap",
+  "name": "uniswap-v3-flashswap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
